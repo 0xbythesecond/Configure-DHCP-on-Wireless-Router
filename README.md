@@ -1,7 +1,8 @@
 # Configure DHCP on Wireless Router
 Lab: Configure DHCP on a Wireless Router using Packet Tracer
 
-![Packet Tracer - Configure DHCP on a Wireless Router](https://github.com/0xbythesecond/Configure-DHCP-on-Wireless-Router/assets/23303634/94295848-a5d2-4aef-b637-2eb2a3fc999f)
+![Packet Tracer - Configure DHCP on a Wireless Router](https://github.com/0xbythesecond/Configure-DHCP-on-Wireless-Router/assets/23303634/ae60e0d2-708f-47bf-b2bb-a38f414ae1bb)
+
 
 ## Objective:
 Our objective is to connect PCs to the router, change DHCP settings, and enable clients to obtain their IP addresses automatically. We'll be using Packet Tracer software, three generic PCs, a wireless router, and Ethernet cables. Let's dive in and explore the world of network configuration, automation, and seamless connectivity.
