@@ -5,7 +5,7 @@ Lab: Configure DHCP on a Wireless Router using Packet Tracer
 
 
 ## Objective:
-Our objective is to connect PCs to the router, change DHCP settings, and enable clients to obtain their IP addresses automatically. We'll be using Packet Tracer software, three generic PCs, a wireless router, and Ethernet cables. Let's dive in and explore the world of network configuration, automation, and seamless connectivity.
+The objective is to connect PCs to the router, change DHCP settings, and enable clients to obtain their IP addresses automatically. I'll be using Packet Tracer software, three generic PCs, a wireless router, and Ethernet cables. Let's dive in and explore the world of network configuration, automation, and seamless connectivity. 
 
 Prerequisites:
 - Packet Tracer software
@@ -159,4 +159,4 @@ Instructions:
 </details>
 
 ## Conclusion:
-I have successfully configured DHCP on a wireless router using Packet Tracer. I've learned how to connect PCs to the router, change the DHCP settings, and configure clients to obtain IP addresses automatically. DHCP simplifies network configuration by assigning IP addresses dynamically, ensuring efficient and automatic network connectivity. By using DHCP, it removes human error when entering the IP addresses manually to end devices. On the other hand, there are some devices that one would like to enter the IP address manually so that they remain static and unchanged such as routers, printers, FTP servers, and DHCP servers.
+I have successfully configured DHCP on a wireless router using Packet Tracer. I've learned how to connect PCs to the router, change the DHCP settings, and configure clients to obtain IP addresses automatically. DHCP simplifies network configuration by assigning IP addresses dynamically, ensuring efficient and automatic network connectivity. By using DHCP, it removes human error when entering the IP addresses manually to end devices. On the other hand, there are some devices that one would like to enter the IP address manually so that they remain static and unchanged such as routers, printers, FTP servers, and DHCP servers. This lab was part of Cisco's Networking Academy Networking Basics through the Skills for All curriculum and you can learn more [here](https://skillsforall.com/).
